@@ -1,5 +1,5 @@
 
-### Olá! Eu ou o Sérgio Lorran 👋
+### Olá! Eu sou o Sérgio Lorran 👋
 
 
 #### Minha Rede Social 
