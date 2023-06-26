@@ -10,6 +10,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioLorran&show_icons=true&theme=dark)
 
 
+
+
 #### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como Engenheiro Cartográfo e Agrimensor na área de Ciência e Analise de Dados. 🏆
 
 
@@ -18,38 +20,56 @@
 - 🎓Atualmente cursando pós-graduação em Data Science and Analytics na USP e Pós-graduação em Geoprocessamento e Georreferrenciamento de Imóveis Rurais na UFRA.
 
 
+- 🌐Engenheiro experiente especializado em topografia, cartografia e geoprocessamento.
+  
+- 💼Trabalhou com Geoprocessamento, Aerolevantamento e Topografia aplicados na área da mineração e agricultura.
 
-  
-- 💼Engenheiro experiente especializado em topografia, cartografia e geoprocessamento.
-  
-- ⚡️Trabalhou extensivamente com Geoprocessamento, Aerolevantamento e Topografia aplicados na área da mineração e agricultura.
+
+
+## Habilidades
+
+- 🌐Geoprocessamento: GIS, análise espacial, manipulação de dados e visualização.
+
+- 📊Ciência de dados: limpeza de dados, análise exploratória de dados e modelagem preditiva.
+
+- 💻Programação: Python, R , PostGIS e Scilab.
+
+- 📈Visualização de dados: Criando representações visuais significativas de dados geográficos.
+
+- 🧠Machine Learning: desenvolvendo modelos e aplicando algoritmos para insights orientados por dados.
 
 
 ## Tecnologias que eu uso no meu dia 
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+### 💻 Estudando atualmente tecnologias de Analise de Dados
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+
+
+### 💻 Estudando atualmente tecnologias de Analise de Dados
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="SergioLorran-R" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whit)https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whit" />
-</div>
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+
+
+
+
 
 
