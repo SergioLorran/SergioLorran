@@ -10,15 +10,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioLorran&show_icons=true&theme=dark)
 
 
+### BEM VINDO AO MEU GITHUB
 
-
-#### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como Engenheiro Cartográfo e Agrimensor na área de Ciência e Analise de Dados. 🏆
+Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como Engenheiro Cartográfo e Agrimensor na área de Ciência e Analise de Dados. 🏆
 
 
 ## 📖 Sobre mim
 
-- 🎓Atualmente cursando pós-graduação em Data Science and Analytics na USP e Pós-graduação em Geoprocessamento e Georreferrenciamento de Imóveis Rurais na UFRA.
+- 🌐Sou Bacharel em Engenharia Cartografica e de Agrimensura pela Universidade Federal Rural da Amazônia - UFRA
 
+- 🎓Atualmente cursando pós-graduação em Data Science and Analytics na USP e Pós-graduação em Geoprocessamento e Georreferrenciamento de Imóveis Rurais na UFRA.
 
 - 🌐Engenheiro experiente especializado em topografia, cartografia e geoprocessamento.
   
@@ -66,6 +67,9 @@
   <img align="center" alt="SergioLorran-R" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
+
+
+![Snake anination](https://github.com/SergioLorran/blob/output/github-contribution-grid-snak.svg)
 
 
 
