@@ -64,7 +64,12 @@ Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus pr
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="SergioLorran-R" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="SergioLorran-Postgresql" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="SergioLorran-SQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
 
 
